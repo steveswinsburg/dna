@@ -1,7 +1,7 @@
 # My DNA
 When I die, you can recreate me with this.
 
-This is my raw genetic data from 23andMe.
+This is my raw genetic data from 23andMe: [genome.txt](https://github.com/steveswinsburg/dna/master/blob/genome.txt)
 
 Fields are TAB-separated. Each line corresponds to a single nucleotide polymorphism (SNP). For each SNP, the following are provided:
 * an identifier (an rsid or an internal id)
